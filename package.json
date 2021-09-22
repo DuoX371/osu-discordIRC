@@ -1,0 +1,15 @@
+{
+  "name": "osuirc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bancho.js": "^0.9.7",
+    "discord.js": "^13.1.0"
+  }
+}

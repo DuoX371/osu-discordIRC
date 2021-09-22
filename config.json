@@ -1,0 +1,10 @@
+{
+  "prefix": ".",
+  "author_id": "",
+  "credentials": {
+    "bot_token": "",
+    "osu_api_key": "",
+    "osu_irc_username": "",
+    "osu_irc_password": ""
+  }
+}
